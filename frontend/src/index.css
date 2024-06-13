@@ -1,6 +1,7 @@
-*{
+* {
   box-sizing: border-box;
-  width: 200px;
-  padding: 20px;
-  border: 2px solid black;
+  margin: 0;
+}
+.table.table-striped.table-bordered.table-hover th,.table.table-striped.table-bordered.table-hover td {
+  border-radius: 10px;
 }

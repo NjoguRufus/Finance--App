@@ -34,7 +34,7 @@ data.
 
 1.  Create a virtual environment for the python code in FastAPI application:
 ```
-py -m venv env  // creates a virtual environment for the project
+`python -m venv env`  // creates a virtual environment for the project
 ```
 2.  Activate virtual environment
 ```
