@@ -1,5 +1,5 @@
 # Finance App - Full Stack web application
-
+<img src="financeapp.png" alt="Finace app">
 ## Live demo
 
 
